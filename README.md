@@ -2,14 +2,15 @@
 arduino demo with i2c lcd 16x2 Display
 
 # connection
-  //connection
-  /*
-  LCD Board   Uno Board
-  SDA-        A4/SDA
-  SCL-        A5/SCL
-  GND         GND
-  VCC         5v
-  */
+  
+  
+  
+ > LCD Board:   Uno Board:
+ > SDA-        A4/SDA
+ > SCL-        A5/SCL
+ > GND         GND
+ > VCC         5v
+ 
 
 # try by comment and uncomment below line as per i2c address of lcd in code
 
