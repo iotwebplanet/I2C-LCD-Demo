@@ -6,9 +6,13 @@ arduino demo with i2c lcd 16x2 Display
   
   
  > LCD Board:   Uno Board:
+ 
  > SDA-        A4/SDA
+ 
  > SCL-        A5/SCL
+ 
  > GND         GND
+ 
  > VCC         5v
  
 
