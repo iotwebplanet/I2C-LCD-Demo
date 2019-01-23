@@ -3,7 +3,7 @@ arduino demo with i2c lcd 16x2 Display
 
 # connection
   
-  
+  ![hook_up_guide](https://github.com/iotwebplanet/I2C-LCD-Demo/Arduino_Uno_i2C_LCD_bb-tutorial.png)
   
  > LCD Board:   Uno Board:
  
