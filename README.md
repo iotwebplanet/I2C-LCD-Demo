@@ -26,4 +26,10 @@ arduino demo with i2c lcd 16x2 Display
 
 
 
+# some basic function of LCD library
+> lcd.init();                 //for lcd intialization
+> lcd.backlight();           // for lcd backlight
+> lcd.setCursor(row,col);   // setting row(max 2) and col(max 16) for text 
+> lcd.print("Text");       //  for printing text in lcd 
+> lcd.clear();            //  for clean text of lcd 
 
